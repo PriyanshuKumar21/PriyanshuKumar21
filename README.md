@@ -23,4 +23,3 @@ Final-year BTech CSE student focused on DSA, core CS fundamentals, and building 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuKumar21&theme=tokyonight&hide_border=true&layout=compact)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=PriyanshuKumar21&theme=tokyo-night&hide_border=true)
