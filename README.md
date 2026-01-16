@@ -18,8 +18,4 @@ Final-year BTech CSE student focused on DSA, core CS fundamentals, and building 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=PriyanshuKumar21&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuKumar21&theme=tokyonight&hide_border=true&layout=compact)
 
